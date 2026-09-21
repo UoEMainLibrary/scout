@@ -17,7 +17,7 @@ The reference implementation uses [Little Forest (LEAF)](https://leaf.littlefore
 
    2. Install Python ([download Python](https://python.org/downloads))
 
-   3. Install required packages:
+   3. Install dependencies:
 
       ```bash
       pip install -r requirements.txt
